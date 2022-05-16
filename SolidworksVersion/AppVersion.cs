@@ -1,6 +1,9 @@
-﻿namespace Solidworks.Versioning
+﻿using System;
+
+namespace SolidworksVersion
 {
-    public enum Version
+
+    public enum AppVersion
     {
         SW2010 = 18,
         SW2011 = 19,

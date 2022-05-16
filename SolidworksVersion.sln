@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.223
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidworksVersion", "SolidworksVersion\SolidworksVersion.csproj", "{61E2CD02-8A08-4BF3-9D42-1F9D8CB3DC0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidworksVersionTests", "SolidworksVersionTests\SolidworksVersionTests.csproj", "{0BC7F443-C53A-413B-8EC8-BF7832AE0681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E2CD02-8A08-4BF3-9D42-1F9D8CB3DC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E2CD02-8A08-4BF3-9D42-1F9D8CB3DC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E2CD02-8A08-4BF3-9D42-1F9D8CB3DC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E2CD02-8A08-4BF3-9D42-1F9D8CB3DC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC7F443-C53A-413B-8EC8-BF7832AE0681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC7F443-C53A-413B-8EC8-BF7832AE0681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC7F443-C53A-413B-8EC8-BF7832AE0681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC7F443-C53A-413B-8EC8-BF7832AE0681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D29A51E6-7F33-4991-9B49-A1098B74437A}
+	EndGlobalSection
+EndGlobal
